@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^3.3",
+        "ext-mbstring": "*"
+    }
+}

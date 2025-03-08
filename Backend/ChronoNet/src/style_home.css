@@ -1,0 +1,396 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Estilos generales del menú */
+.menu-vert {
+    width: 200px; /* Ajusta el ancho si es necesario */
+    background-color: #333;
+  }
+  
+  .menu-list-vert {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .menu-item-vert {
+    border-bottom: 1px solid white; /* Separador blanco entre opciones */
+  }
+  
+  .menu-link-vert {
+    display: block;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .menu-link-vert i {
+    font-size: 24px; /* Tamaño de los íconos */
+  }
+  
+  .menu-link-vert:hover {
+    background-color: #575757; /* Color al pasar el mouse */
+  }
+  
+  /* Elimina el borde inferior del último elemento */
+  .menu-item-vert:last-child {
+    border-bottom: none;
+  }
+
+.tabs {
+    display: flex;
+    background-color: #062f6d;
+    padding: 10px;
+    align-items: center; /* Centrar verticalmente los elementos en la barra de pestañas */
+}
+
+.logo {
+    margin-right: 10px; /* Agregar margen derecho para separar el logo de las pestañas */
+}
+
+.tabs .tab {
+    flex: 1;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.tab-content {
+    display: block;
+    padding: 20px;
+}
+div#Usuarios {
+    display: block;
+}
+
+/* Agregar estilo al SVG para que tenga un tamaño específico */
+.logo svg {
+    width: 200px; /* Establecer el ancho deseado */
+    height: 50px; /* Establecer la altura deseada */
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px 30px;
+}
+
+.tablas-listado {
+width: 90%;
+margin-left: 5%;
+margin-right: 5%;
+margin-top: 20px;
+border-collapse: collapse;
+}
+
+.tablas-listado-user {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    }
+
+#header-row {
+    background-color: #062f6d;
+    color: #fff;
+    text-align: center;
+}
+
+#header-row th {
+    text-align: center;
+}
+
+.even-row {
+    background-color: #f2f2f2;
+}
+
+.odd-row {
+    background-color: #ffffff;
+}
+
+.my-cell {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+.td-list{
+    padding: 10px;
+}
+
+.crear-usuario-button {
+    background-color: #062f6d;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-left: 5%;
+}
+
+.crear-usuario-button:hover {
+    background-color: #45a049;
+}
+
+.popup-form {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    z-index: 999; /* Asegura que el formulario esté en la parte superior */
+}
+
+.popup-form button {
+    margin-top: 10px;
+}
+
+#formularioPopup{
+    padding: 60px;
+}
+
+#filtros {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin: 0px 5%;
+}
+
+#filtros > div {
+    flex: 0 0 30%;
+    margin-bottom: 10px;
+}
+
+#filtros label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#filtros select,
+#filtros input[type="text"],
+#filtros input[type="date"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+#filtros button {
+    padding: 10px 20px;
+    background-color: #062f6d;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#filtros button:hover {
+    background-color: #21638f;
+}
+
+.usuario-nombre{
+    color: white;
+}
+
+.filtroCampo {
+    padding: 5px;
+    margin-left: 5px;
+}
+
+label {
+    font-weight: bold;
+}
+
+div#filtros div {
+    padding: 10px;
+}
+
+button.descargar-btn {
+    padding: 10px 20px;
+    background-color: #062f6d;
+    color: white;
+    font-weight: 700;
+    margin-top:10px;
+    border: 1px solid lightgrey;
+}
+
+button.descargar-btn:hover {
+    padding: 10px 20px;
+    background-color: #256d9e;
+    color: white;
+    font-weight: 700;
+    border: 1px solid lightgrey;
+}
+
+/* Estilo para los botones de paginación */
+.paginacion {
+display: flex;
+list-style: none;
+padding: 0;
+margin: 0px 5%;
+}
+.posicionamiento-textos{
+margin: 0 5%;
+margin-bottom: 10px;
+}
+
+.paginacion li {
+margin-right: 5px;
+}
+
+.paginacion a, .paginacion span {
+display: inline-block;
+padding: 8px 12px;
+background-color: #062f6d;
+color: #fff;
+text-decoration: none;
+border-radius: 4px;
+cursor: pointer;
+margin-right: 10px;
+margin-top: 20px;
+}
+.paginacion a:hover,
+.paginacion a:focus, /* Agrega este estilo para mantener la selección durante el foco */
+.paginacion .current {
+background-color: #4a75b5;
+}
+
+.paginacion .current:hover {
+background-color: #4a75b5; /* Ajusta según sea necesario */
+}
+
+.paginacion .disabled {
+background-color: #ddd;
+color: #666;
+cursor: not-allowed;
+}
+
+/*ESTILOS FORMULARIO EDICIÓN USUARIOS*/
+
+div#contenedor-form {
+width: 100%;
+height: 100%;
+display: flex;
+align-content: center;
+justify-content: center;
+align-items: center;
+}
+
+div#formulario-edit-user {
+width: fit-content;
+background-color: white;
+padding: 30px;
+box-shadow: 1px 2px 8px lightgray;
+}
+
+
+.popup-form {
+display: none;
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+background-color: white;
+padding: 20px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+z-index: 9999;
+}
+
+/* Estilo para los inputs */
+.popup-form input[type="text"],
+.popup-form input[type="checkbox"] {
+width: calc(100% - 20px); /* Ajuste del ancho para el borde */
+padding: 8px;
+margin-bottom: 10px;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+}
+
+/* Estilo para el botón */
+.popup-form button {
+background-color: #4CAF50;
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+}
+
+/* Estilo para el botón de cancelar */
+.popup-form button[type="button"] {
+background-color: #ccc;
+margin-right: 10px;
+}
+
+.botones-form{
+background-color: #062f6d;
+color: white;
+padding: 10px 15px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+font-size: 16px;
+margin-top: 10px;
+}
+
+div#Partes form div, div#Partes form button {
+    margin-top: 10px;
+}
+
+.select-partes {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.select-partes:focus {
+    border-color: #66afe9;
+    outline: 0;
+    box-shadow: 0 0 5px rgba(102, 175, 233, 0.5);
+}
+
+.btn-partes{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #062f6d;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.btn-partes:hover{
+    background-color: #0056b3;
+}
+
+
+.td-list a svg {
+    max-width: 25px;
+  }

@@ -1,0 +1,61 @@
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\CL CHRONO USERS.exe
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\CL CHRONO USERS.deps.json
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\CL CHRONO USERS.runtimeconfig.json
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\CL CHRONO USERS.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\CL CHRONO USERS.pdb
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\DK.Standard.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\DK.WshRuntime.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Extension.OfficeOpenXml.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Extension.Utilities.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\OfficeOpenXml.Extends.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\System.Linq.Async.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\CL CHRONO USERS.csproj.AssemblyReference.cache
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\Vista\App.g.cs
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\Vista\Fichaje.g.cs
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\Vista\Inicio.g.cs
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\Vista\ListadoRegistros.g.cs
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\Vista\Registro.g.cs
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\CL CHRONO USERS_MarkupCompile.cache
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\CL CHRONO USERS_MarkupCompile.lref
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\Vista\App.baml
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\Vista\Fichaje.baml
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\Vista\Inicio.baml
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\Vista\ListadoRegistros.baml
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\Vista\Registro.baml
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\CL CHRONO USERS.g.resources
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\CL CHRONO USERS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\CL CHRONO USERS.AssemblyInfoInputs.cache
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\CL CHRONO USERS.AssemblyInfo.cs
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\CL CHRONO USERS.csproj.CoreCompileInputs.cache
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\CL CHRONO USERS.sourcelink.json
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\CL CHRONO USERS.csproj.CopyComplete
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\CL CHRONO USERS.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\refint\CL CHRONO USERS.dll
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\CL CHRONO USERS.pdb
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\CL CHRONO USERS.genruntimeconfig.cache
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net8.0-windows\ref\CL CHRONO USERS.dll

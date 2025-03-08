@@ -1,0 +1,9 @@
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net6.0-windows\CL CHRONO USERS.csproj.AssemblyReference.cache
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net6.0-windows\Vista\App.g.cs
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net6.0-windows\Vista\Fichaje.g.cs
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net6.0-windows\Vista\Inicio.g.cs
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net6.0-windows\Vista\ListadoRegistros.g.cs
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net6.0-windows\Vista\Registro.g.cs
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net6.0-windows\CL CHRONO USERS_MarkupCompile.cache
+C:\Users\borja\Desktop\CHRONNO\chrono-cl - Users\obj\Debug\net6.0-windows\CL CHRONO USERS_MarkupCompile.lref

@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<ApplicationIcon>Resources\icon.ico</ApplicationIcon>
+		<TargetFramework>net8.0-windows7.0</TargetFramework>
+		<RootNamespace>CL_CHRONO</RootNamespace>
+		<Nullable>enable</Nullable>
+		<UseWPF>true</UseWPF>
+		<PlatformTarget>x86</PlatformTarget>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="Resources\bloqueado.png" />
+		<None Remove="Resources\candado.png" />
+		<None Remove="Resources\icon.ico" />
+		<None Remove="Resources\LogoColor.png" />
+		<None Remove="Resources\return.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="DK.WshRuntime" Version="4.1.3.201115164" />
+		<PackageReference Include="EPPlus" Version="7.6.0" />
+		<PackageReference Include="Extension.OfficeOpenXml" Version="1.1.0" />
+		<PackageReference Include="Microsoft-WindowsAPICodePack-Shell" Version="1.1.5" />
+		<PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.3.0" />
+		<PackageReference Include="Microsoft.Data.Sqlite" Version="9.0.2" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.2" />
+		<PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="9.0.2" />
+		<PackageReference Include="Microsoft.SqlServer.Compact" Version="4.0.8876.1" />
+		<PackageReference Include="MySql.Data" Version="9.2.0" />
+		<PackageReference Include="OfficeOpenXml.Core.ExcelPackage" Version="1.0.0" />
+		<PackageReference Include="OfficeOpenXml.Extends" Version="1.0.6" />
+		<PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Resource Include="Resources\bloqueado.png">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\candado.png">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\icon.ico">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\LogoColor.png">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Resources\return.png">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Vista\" />
+	</ItemGroup>
+
+</Project>
